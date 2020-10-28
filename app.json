@@ -96,7 +96,7 @@
       "required": false
     },
     "GET_SIZE_G": {
-      "description": "Enter your custom getsize command like getsize@urgroupname and so on. Default is /getsize.",
+      "description": "Enter your custom getsize command like getsize@urgroupname and so on. Default is /getsize",
       "required": false
     },
     "RCLONE_CONFIG": {
